@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 ## 🏆 Achievements
 - 🚀 Consistently improving **DSA & problem-solving skills** alongside academics
 - 🔗 Active on coding platforms:  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/paragjain_30/))  
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/codedev_parag))
+ [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/paragjain_30/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/codedev_parag)
+
   
 ---
 
